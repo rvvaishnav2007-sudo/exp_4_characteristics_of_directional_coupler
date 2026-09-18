@@ -69,8 +69,7 @@ Directivity (dB) = P3-P4
 ---
 
 ## Observation
-
-*(Include your own calculation relevant to the experiment.)*
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/2dac67a6-dc65-4a93-8d05-b65e8eac7a0b" />
 
 
 ## Precautions
@@ -82,5 +81,4 @@ Directivity (dB) = P3-P4
 ---
 
 ## Conclusion
-
-*(Write your own.)*
+The directional coupler was studied successfully, and its working principle was verified. The coupling, isolation, directivity, and transmission characteristics were observed. Thus, the directional coupler was found to be useful for sampling and measuring microwave power in transmission systems.
